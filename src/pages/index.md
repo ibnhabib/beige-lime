@@ -78,7 +78,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Pakistan Cargo
+  title: Pakistan Cargo Abu Dhabi
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
