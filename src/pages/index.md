@@ -90,7 +90,10 @@ seo:
       value: Pakistan Cargo Express Abu Dhabi
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Pakistan Cargo Abu Dhabi send cargo to Pakistan door to door, we are the
+        only company premium  Pakistani cargo packing service for the safe
+        delivery.
       keyName: property
     - name: 'og:image'
       value: /images/Pakistan%20cargo%201.png
