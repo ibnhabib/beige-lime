@@ -23,7 +23,7 @@ sections:
     subtitle: 'We pick, Pack and Move.'
     features:
       - title: Sea Cargo Service
-        image: images/feature1.png
+        image: images/028-cargo boat.png
         image_alt: App preview on a phone and tablet
         content: >
           Sea Cargo is a cost effective way of sending your Cargo to Pakistan.
