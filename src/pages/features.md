@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Sea Cargo Services
     content: >+
       Sea Cargo is a cost effective way of sending your Cargo to Pakistan. The
       average delivery time to Pakistan is 3 to 4 weeks. With the minimum weight
