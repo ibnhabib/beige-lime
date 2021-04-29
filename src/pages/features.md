@@ -49,6 +49,12 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_contact
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 seo:
   title: Features
   description: This is the features page
