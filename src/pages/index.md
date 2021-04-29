@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Relocation Service
-        image: images/feature3.png
+        image: images/007-delivery truck.png
         image_alt: App user profile preview
         content: |+
           Move full house or few items within or outside UAE.
