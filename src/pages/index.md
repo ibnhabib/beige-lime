@@ -12,7 +12,7 @@ sections:
 
     actions:
       - label: Click to Whatsapp
-        url: /features
+        url: 'https://wa.me/971554948975'
         style: primary
   - section_id: features
     type: section_features
