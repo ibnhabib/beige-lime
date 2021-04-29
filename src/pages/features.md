@@ -20,7 +20,7 @@ sections:
       - label: View Demo
         url: '#'
         style: secondary
-  - section_id: feature
+  - section_id: features
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
