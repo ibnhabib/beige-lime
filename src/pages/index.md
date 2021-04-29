@@ -11,7 +11,7 @@ sections:
       throughout Pakistan.
 
     actions:
-      - label: Learn More
+      - label: Click to Whatsapp
         url: /features
         style: primary
   - section_id: features
