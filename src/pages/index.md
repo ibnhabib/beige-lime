@@ -97,7 +97,7 @@ sections:
       cargo services. Here are some the items that we send on a regular basis:
       Home appliances, electronics, furniture's, Clothes, toys, dry food etc!
     actions:
-      - label: Get Started
+      - label: Contact
         url: /contact
         style: primary
   - section_id: recent-posts
