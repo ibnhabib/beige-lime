@@ -40,10 +40,7 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: "**Packing**\_is the most important part for the safety of cargo items. Our professional team can pack\_**Furniture**,\_**Electronics**,\_**Applainces**,\_**Boxes**\_and all different types of items to make sure it is Safe to ship. (T\\&C Apply).\n\n"
         actions:
           - label: Learn More
             url: /features
