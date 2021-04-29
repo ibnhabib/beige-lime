@@ -25,7 +25,7 @@ sections:
     title: Cargo to Pakistan now
     subtitle: Call now to send your cargo to Pakistan
     actions:
-      - label: Get Started
+      - label: Contact
         url: '#'
         style: secondary
 seo:
