@@ -31,7 +31,7 @@ sections:
           minimum weight being 30kg via Sea Cargo. The price per kilo starts at
           AED 3.00 + packaging fee (T\&C Apply).
         actions:
-          - label: Learn More
+          - label: Contact
             url: /contact
             style: secondary
             has_icon: true
