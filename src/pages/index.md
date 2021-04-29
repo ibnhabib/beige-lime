@@ -91,7 +91,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Call to Schedule Pick-up!
     subtitle: >-
       Our customers have sent multiple types of parcels through our air and sea
       cargo services. Here are some the items that we send on a regular basis:
