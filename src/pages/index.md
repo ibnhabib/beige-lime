@@ -38,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Packing Services
-        image: images/feature2.png
+        image: images/015-cardboard.png
         image_alt: App users welcoming a new member
         content: "**Packing**\_is the most important part for the safety of cargo items. Our professional team can pack\_**Furniture**,\_**Electronics**,\_**Applainces**,\_**Boxes**\_and all different types of items to make sure it is Safe to ship. (T\\&C Apply).\n\n"
         actions:
