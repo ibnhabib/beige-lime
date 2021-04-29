@@ -3,7 +3,7 @@ title: Contact
 sections:
   - section_id: lorem-ipsum
     title: Call us for Free Pickup
-    subtitle: lorem-ipsum
+    subtitle: Click to call or whatsapp.
     content: >-
       ## Lorem ipsum
 
