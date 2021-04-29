@@ -56,8 +56,7 @@ sections:
 
 
         actions:
-          - label: Learn More
-            url: /contact
+          - url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
