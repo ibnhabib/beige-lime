@@ -93,7 +93,7 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/Pakistan%20cargo%201.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
