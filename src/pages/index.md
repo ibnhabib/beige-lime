@@ -62,31 +62,6 @@ sections:
             icon: arrow-right
             icon_position: right
             label: Contact
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Testimonials
-    subtitle: What our customers said
-    reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
     title: Call to Schedule Pick-up!
