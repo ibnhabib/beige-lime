@@ -22,7 +22,7 @@ sections:
     title: Our Services
     subtitle: 'We pick, Pack and Move.'
     features:
-      - title: The Best Feature of Your Services
+      - title: Sea Cargo Service
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
