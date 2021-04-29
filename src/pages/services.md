@@ -1,7 +1,7 @@
 ---
 title: Services
 sections:
-  - section_id: services
+  - section_id: features
     type: section_content
     background: gray
     image: images/028-cargo boat.png
