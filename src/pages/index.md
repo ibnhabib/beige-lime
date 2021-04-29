@@ -79,7 +79,7 @@ sections:
     title: Latest Posts
 seo:
   title: Pakistan Cargo Abu Dhabi
-  description: The preview of the Azimuth theme
+  description: Pakistan Cargo Abu Dhabi provide premium cargo to pa
   extra:
     - name: 'og:type'
       value: website
