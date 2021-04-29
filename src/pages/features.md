@@ -27,22 +27,7 @@ sections:
       professional team can pack Furniture, Electronics, Applainces, Boxes and
       all different types of items to make sure it is Safe to ship. (T&C Apply).
     background: gray
-    features:
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
+    features: []
     type: section_features
   - section_id: call-to-action
     type: section_cta
