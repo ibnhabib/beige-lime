@@ -21,7 +21,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: features
-    title: lorem-ipsum
+    title: Cargo Packing Service
     subtitle: lorem-ipsum
     background: gray
     features: []
