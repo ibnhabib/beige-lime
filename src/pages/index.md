@@ -32,7 +32,7 @@ sections:
           AED 3.00 + packaging fee (T\&C Apply).
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://pakistancargoexpress.com/contact'
             style: secondary
             has_icon: true
             icon: arrow-right
