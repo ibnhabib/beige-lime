@@ -14,6 +14,7 @@ sections:
       - label: Click to Whatsapp
         url: 'https://wa.me/971554948975'
         style: primary
+        has_icon: true
   - section_id: features
     type: section_features
     background: gray
