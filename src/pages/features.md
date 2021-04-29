@@ -22,7 +22,10 @@ sections:
         style: secondary
   - section_id: features
     title: Cargo Packing Service
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Packing is the most important part for the safety of cargo items. Our
+      professional team can pack Furniture, Electronics, Applainces, Boxes and
+      all different types of items to make sure it is Safe to ship. (T&C Apply).
     background: gray
     features: []
     type: section_features
