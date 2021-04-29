@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/028-cargo boat.png
     image_alt: App preview on a phone and tablet
     title: Sea Cargo Services
     content: >+
