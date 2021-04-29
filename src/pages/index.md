@@ -92,7 +92,10 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Our customers have sent multiple types of parcels through our air and sea
+      cargo services. Here are some the items that we send on a regular basis:
+      Home appliances, electronics, furniture's, Clothes, toys, dry food etc!
     actions:
       - label: Get Started
         url: /signup
