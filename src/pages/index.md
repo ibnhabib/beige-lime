@@ -98,7 +98,7 @@ sections:
       Home appliances, electronics, furniture's, Clothes, toys, dry food etc!
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts
