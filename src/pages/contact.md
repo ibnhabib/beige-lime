@@ -20,7 +20,7 @@ sections:
       - input_type: text
         name: Mobile
         label: Mobile
-        default_value: lorem-ipsum
+        default_value: Your mobile
         options: []
         is_required: false
         type: form_field
