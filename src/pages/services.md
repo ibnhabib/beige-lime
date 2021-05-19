@@ -31,7 +31,7 @@ sections:
         image: images/040-delivery-man-19.png
     type: section_features
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Contact us
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
