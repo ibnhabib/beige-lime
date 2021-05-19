@@ -1,8 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: We are specialized to handle all kind of cargo to Pakistan.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
