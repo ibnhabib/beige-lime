@@ -14,8 +14,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     content: |+
 
       Pakistan  Cargo 
