@@ -1,7 +1,7 @@
 ---
 title: Services
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Our Services
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
