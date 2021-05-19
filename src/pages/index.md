@@ -13,13 +13,7 @@ sections:
         url: 'https://wa.me/971554948975'
         style: primary
         has_icon: true
-        icon: arrow-right
-    actions:
-      - label: Click to Call
-        url: <a href="tel:+971554948975">{_.get(action, 'label')}</a>
-        style: primary
-        has_icon: true
-        icon: arrow-right
+        icon: arrow-right   
   - content: >
       #### Pakistan  Cargo Cargo to Pakistan cargo service to Pakistan Pakistan
       cargo service
