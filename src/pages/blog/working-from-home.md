@@ -1,6 +1,8 @@
 ---
 title: Cargo to Pakistan
-excerpt: 'Cargo to Pakistan from Abu Dhabi , we have free pickup service and best '
+excerpt: >-
+  Cargo to Pakistan from Abu Dhabi , we have free pickup service and best
+  packing solution
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
