@@ -5,7 +5,7 @@ sections:
     title: Call us for Free Pickup
     subtitle: Click to call or whatsapp.
     content: "**Click to call or whatsapp.**\n**
-    Door to Door cargo service all over Pakistan**\n\n
+    Door to Door cargo service all over Pakistan**\n
     Shop 1, Plot 64, 13th street, M37, P.O Box 8646, Musaffah, Abu Dhabi, UAE
     Email: contact@ukargo.com
     Landline: 02-4442848   
