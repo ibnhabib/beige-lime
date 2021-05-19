@@ -14,8 +14,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-  - title: lorem-ipsum
-    content: |+
+  - content: |+
 
       Pakistan  Cargo 
       Cargo to Pakistan 
