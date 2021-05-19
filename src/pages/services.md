@@ -17,17 +17,7 @@ sections:
         type: feature_item
         image: images/028-cargo boat.png
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "**Packing**\_is the most important part for the safety of cargo items. Our professional team can pack\_**Furniture**,\_**Electronics**,\_**Applainces**,\_**Boxes**\_and all different types of items to make sure it is Safe to ship. (T\\&C Apply).\n\n"
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
