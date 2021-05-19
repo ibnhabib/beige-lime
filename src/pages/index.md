@@ -16,7 +16,7 @@ sections:
         icon: arrow-right
     actions:
       - label: Click to Call
-        url: 'https://wa.me/971554948975'
+        url: <a href="tel:+18475555555">{_.get(action, 'label')}</a>
         style: primary
         has_icon: true
         icon: arrow-right
