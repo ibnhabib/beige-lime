@@ -23,17 +23,8 @@ sections:
         type: feature_item
         image: images/001-delivery-man.png
       - title: Relocation Services
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Move full house or few items within or outside UAE.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
