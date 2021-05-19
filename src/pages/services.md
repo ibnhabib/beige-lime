@@ -7,17 +7,11 @@ sections:
     background: gray
     features:
       - title: Sea Cargo Services
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Sea Cargo is a cost effective way of sending your Cargo to Pakistan.
+          The average delivery time to Pakistan is 3 to 4 weeks. With the
+          minimum weight being 30kg via Sea Cargo. The price per kilo starts at
+          AED 3.00 + packaging fee (T\&C Apply).
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
