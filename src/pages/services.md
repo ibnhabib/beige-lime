@@ -30,6 +30,11 @@ sections:
         type: feature_item
         image: images/040-delivery-man-19.png
     type: section_features
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: ''
   description: ''
