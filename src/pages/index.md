@@ -22,7 +22,7 @@ sections:
     actions: []
     type: section_content
     section_id: Pakistan cargo
-    image: images/transportation (1).png
+    image: images/pakistan-641446_1920.png
   - section_id: features
     type: section_features
     background: gray
