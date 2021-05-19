@@ -22,7 +22,6 @@ sections:
     actions: []
     type: section_content
     section_id: Pakistan cargo
-    image: images/015-cardboard.png
   - section_id: features
     type: section_features
     background: gray
