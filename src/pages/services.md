@@ -21,6 +21,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/028-cargo boat.png
     type: section_features
 seo:
   title: ''
