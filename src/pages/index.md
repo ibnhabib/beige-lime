@@ -77,9 +77,7 @@ sections:
     title: Latest Posts
 seo:
   title: Pakistan Cargo Service Abu Dhabi
-  description: >-
-    Pakistan Cargo Abu Dhabi send cargo to Pakistan door to door, we are the
-    only company premium  Pakistani cargo packing service for the safe delivery.
+  description: 'Pakistan Cargo service Abu Dhabi sends cargo to Pakistan door to door. '
   extra:
     - name: 'og:type'
       value: website
