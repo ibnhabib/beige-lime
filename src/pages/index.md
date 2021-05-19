@@ -22,7 +22,7 @@ sections:
       cargo service to Pakistan
 
       Pakistan cargo service
-    image_alt: Pakistan cargo service to p
+    image_alt: Pakistan cargo service from abu dhabi
     background: white
     actions: []
     type: section_content
