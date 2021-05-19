@@ -11,7 +11,7 @@ sections:
     Landline: 02-5548822
     Mobile: 055-4948975 | Language: English, Urdu
     Mobile: 058-5847087 | Language: Urdu, Punjabi
-    Mobile: 050-1190122   | Language: Pushtu, Urdu\n"
+    Mobile: 050-1190122   | Language: Pushtu, Urdu
     background: gray
     form_id: Contact
     form_action: Request Call Back
