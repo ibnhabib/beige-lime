@@ -36,7 +36,7 @@ sections:
     actions:
       - label: Whatsapp us
         url: 'https://wa.me/971554948975'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
