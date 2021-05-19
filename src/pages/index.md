@@ -6,10 +6,8 @@ sections:
     image: 'images/9535 [Converted].png'
     image_alt: App preview
     title: Pakistan Cargo Service
-    content: >+
-      Send a document, small Box, Furniture, Electronics or Full container
-      throughout Pakistan.
-
+    content: |
+      **Cargo to Pakistan** door to door service, **Free pick up and Delivery**
     actions:
       - label: Click to Whatsapp
         url: 'https://wa.me/971554948975'
