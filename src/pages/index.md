@@ -23,7 +23,7 @@ sections:
 
       Pakistan cargo service
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions: []
     type: section_content
     section_id: Pakistan cargo
