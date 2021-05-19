@@ -21,6 +21,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/001-delivery-man.png
     type: section_features
 seo:
   title: ''
