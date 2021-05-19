@@ -35,7 +35,7 @@ sections:
     subtitle: Feel free to contact
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://wa.me/971554948975'
         style: link
         has_icon: false
         icon: arrow-left
