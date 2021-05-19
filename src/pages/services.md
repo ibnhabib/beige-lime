@@ -34,7 +34,7 @@ sections:
     title: Contact us
     subtitle: Feel free to contact
     actions:
-      - label: Whatspp us
+      - label: WhatsApp us
         url: 'https://wa.me/971554948975'
         style: primary
         has_icon: false
