@@ -14,11 +14,6 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: "Pakistan  Cargo,\_Cargo to Pakistan,\_cargo service to Pakistan,\_Pakistan cargo service"
-    actions: []
-    type: section_cta
   - content: |
       Pakistan  Cargo
 
