@@ -14,6 +14,12 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
+    actions:
+      - label: Click to Whatsapp
+        url: 'https://wa.me/971554948975'
+        style: primary
+        has_icon: true
+        icon: arrow-right
   - content: >
       #### Pakistan  Cargo Cargo to Pakistan cargo service to Pakistan Pakistan
       cargo service
