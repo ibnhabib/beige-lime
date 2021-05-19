@@ -22,7 +22,7 @@ sections:
         actions: []
         type: feature_item
         image: images/001-delivery-man.png
-      - title: lorem-ipsum
+      - title: Relocation Services
         content: >-
           ## Lorem ipsum
 
