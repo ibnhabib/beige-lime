@@ -8,7 +8,7 @@ date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
-image_alt: People in a conference room
+image_alt: Cargo to Pakistan by Pakistan cargo express
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: A tale about advantages and disadvantages of working from home
