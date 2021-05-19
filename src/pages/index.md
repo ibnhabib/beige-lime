@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: 'images/9535 [Converted].png'
     image_alt: App preview
-    title: Pakistan Cargo
+    title: Pakistan Cargo Service
     content: >+
       Send a document, small Box, Furniture, Electronics or Full container
       throughout Pakistan.
