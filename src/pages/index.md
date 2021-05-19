@@ -16,7 +16,7 @@ sections:
         icon: arrow-right
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: |+
+    content: |
       \<table>
       \<caption>Table with thead, tfoot, and tbody\</caption>
       \<thead>
@@ -38,9 +38,6 @@ sections:
       \</tr>
       \</tfoot>
       \</table>
-
-
-
     image_alt: lorem-ipsum
     background: gray
     actions: []
