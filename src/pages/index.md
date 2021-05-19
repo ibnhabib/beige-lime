@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
     actions:
-      - label: Click to Whatsapp
+      - label: Click to Call
         url: 'https://wa.me/971554948975'
         style: primary
         has_icon: true
