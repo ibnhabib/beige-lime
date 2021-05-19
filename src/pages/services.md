@@ -28,6 +28,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/040-delivery-man-19.png
     type: section_features
 seo:
   title: ''
