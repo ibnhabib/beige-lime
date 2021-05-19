@@ -3,8 +3,8 @@ title: Cargo Pakistan from Abu Dhabi
 subtitle: Send Cargo to Pakistan from Abu Dhabi
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Sending Cargo to Pakistan is easy, you can book online , our team will
+  schedule the pickup and ship
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
