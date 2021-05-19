@@ -16,17 +16,29 @@ sections:
         icon: arrow-right
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      Tables\<table>
+          \<caption>Table with thead, tfoot, and tbody\</caption>
+        \<thead>
+          \<tr>
+            \<th>Header content 1\</th>
+            \<th>Header content 2\</th>
+          \</tr>
+        \</thead>
+        \<tbody>
+          \<tr>
+            \<td>Body content 1\</td>
+            \<td>Body content 2\</td>
+          \</tr>
+        \</tbody>
+        \<tfoot>
+          \<tr>
+            \<td>Footer content 1\</td>
+            \<td>Footer content 2\</td>
+          \</tr>
+        \</tfoot>
+      \</table>
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
