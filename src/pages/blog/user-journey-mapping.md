@@ -1,8 +1,6 @@
 ---
 title: Pakistan Cargo to Karachi from Abu Dhabi
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+subtitle: cargo to Karachi from Abu Dhabi
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
