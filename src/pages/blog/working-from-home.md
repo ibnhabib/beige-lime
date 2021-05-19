@@ -1,6 +1,6 @@
 ---
 title: Cargo to Pakistan
-excerpt: 'Cargo to Pakistan from '
+excerpt: 'Cargo to Pakistan from Abu Dhabi '
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
