@@ -3,7 +3,7 @@ title: Services
 sections:
   - section_id: Our Services
     title: Our Services
-    subtitle: lorem-ipsum
+    subtitle: End to end logistics solutions
     background: gray
     features:
       - title: Sea Cargo Services
