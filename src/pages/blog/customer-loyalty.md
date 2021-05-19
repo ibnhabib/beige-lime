@@ -1,6 +1,6 @@
 ---
 title: Cargo Pakistan from Abu Dhabi
-subtitle: A story about customer loyalty
+subtitle: Send Cargo to Pakistan from Abu Dhabi
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
