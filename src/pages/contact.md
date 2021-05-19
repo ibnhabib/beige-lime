@@ -19,7 +19,7 @@ sections:
         type: form_field
       - input_type: text
         name: Mobile
-        label: lorem-ipsum
+        label: Mobile
         default_value: lorem-ipsum
         options: []
         is_required: false
