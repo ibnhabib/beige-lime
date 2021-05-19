@@ -1,7 +1,9 @@
 ---
 title: Pakistan Cargo to Karachi from Abu Dhabi
 subtitle: cargo to Karachi from Abu Dhabi
-excerpt: 'Do you want to send house holds to Karachi Pakistan,, we have '
+excerpt: >-
+  Do you want to send house holds to Karachi Pakistan,, we have best packing and
+  delivey
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/10_thumb.jpg
