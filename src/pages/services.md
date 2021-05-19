@@ -16,7 +16,7 @@ sections:
         actions: []
         type: feature_item
         image: images/028-cargo boat.png
-      - title: lorem-ipsum
+      - title: Packing Services
         content: "**Packing**\_is the most important part for the safety of cargo items. Our professional team can pack\_**Furniture**,\_**Electronics**,\_**Applainces**,\_**Boxes**\_and all different types of items to make sure it is Safe to ship. (T\\&C Apply).\n\n"
         image_alt: lorem-ipsum
         actions: []
