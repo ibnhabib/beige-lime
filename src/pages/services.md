@@ -6,7 +6,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Sea Cargo
         content: >-
           ## Lorem ipsum
 
