@@ -22,7 +22,7 @@ sections:
       cargo service to Pakistan
 
       Pakistan cargo service
-    image_alt: lorem-ipsum
+    image_alt: Pakistan cargo service to p
     background: white
     actions: []
     type: section_content
