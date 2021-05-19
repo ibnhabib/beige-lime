@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
   - content: |
-      Pakistan  Cargo, 
+      Pakistan  Cargo
 
       Cargo to Pakistan
 
