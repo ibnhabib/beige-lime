@@ -32,7 +32,7 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: Contact us
-    subtitle: lorem-ipsum
+    subtitle: Feel free to contact
     actions: []
     type: section_cta
 seo:
