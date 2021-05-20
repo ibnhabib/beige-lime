@@ -5,14 +5,7 @@ sections:
     title: Call us for Free Pickup
     subtitle: Click to call or whatsapp.
     content: "**Click to call or whatsapp.**\n**
-    Door to Door cargo service all over Pakistan**\n
-    Shop 1, Plot 64, 13th street, M37, P.O Box 8646, Musaffah, Abu Dhabi, UAE
-    Email: contact@ukargo.com
-    Landline: 02-4442848   
-    Landline: 02-5548822
-    Mobile: 055-4948975 | Language: English, Urdu
-    Mobile: 058-5847087 | Language: Urdu, Punjabi
-    Mobile: 050-1190122 | Language: Pushtu, Urdu
+    
     background: gray
     form_id: Contact
     form_action: Request Call Back
