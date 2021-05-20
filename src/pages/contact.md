@@ -4,7 +4,7 @@ sections:
   - section_id: features
     title: Call us for Free Pickup
     subtitle: Click to call or whatsapp.
-    content: "**Click to call or whatsapp.**
+    content: "**Click to call or whatsapp.**"
     
     background: gray
     form_id: Contact
