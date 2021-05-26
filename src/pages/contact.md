@@ -69,9 +69,6 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 4.  Vivamus convallis urna id felis
 5.  Nulla porta tempus sapien
 
-```
-```
-
 ## Tables
 
 <table>
