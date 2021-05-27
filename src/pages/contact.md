@@ -29,6 +29,11 @@ template: page
 
 
 
+First Header | Second Header
+\------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 # This is an H1
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
