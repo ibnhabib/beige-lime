@@ -44,7 +44,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: Primary question and answer about Pakistan cargo
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: Do you have packing services?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
