@@ -52,14 +52,8 @@ sections:
         answer: |
           We send cargo via sea and it take approximate a month to reach.
       - question: Do you have Pick up services?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+        answer: |
+          yes , we do have pick up, packing and delivery services.
 seo:
   title: Pricing
   description: This is the pricing page
