@@ -14,7 +14,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-      - label: lorem-ipsum
+      - label: Click to Call
         url: '#'
         style: link
         has_icon: false
