@@ -45,12 +45,9 @@ sections:
     subtitle: Primary question and answer about Pakistan cargo
     faq_items:
       - question: Do you have packing services?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+        answer: >
+          Yes, we have professionals who can dismantle and pack all kind of
+          items.
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
