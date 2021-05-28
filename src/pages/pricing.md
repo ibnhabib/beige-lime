@@ -23,7 +23,7 @@ sections:
             style: secondary
       - title: Electronics
         subtitle: Electrical appliances
-        price: $49/m
+        price: Starts AED 6/ KG
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
