@@ -51,7 +51,7 @@ sections:
       - question: How long it take to reach the cargo to Pakistan?
         answer: |
           We send cargo via sea and it take approximate a month to reach.
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: Do you have Pick up services?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
