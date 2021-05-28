@@ -4,6 +4,7 @@ subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
+  
   <a href="tel:+971554948975" class="button"> Click to Call </a> 
 <a href="https://wa.me/971554948975" class="button">Click to Whatsapp</a> 
 seo:
