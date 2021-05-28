@@ -14,15 +14,6 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-      - label: Click to Call
-        url: 'tel:971554948975'
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: left
-        new_window: true
-        no_follow: false
-        type: action
   - content: >
       #### Pakistan Cargo | Cargo to Pakistan | cargo service to Pakistan |
       Pakistan cargo service
