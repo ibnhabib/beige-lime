@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
       - label: Click to Call
-        url: '#'
+        url: 'tel:971554948975'
         style: link
         has_icon: false
         icon: arrow-left
