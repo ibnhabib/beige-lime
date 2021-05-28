@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Normal Items
         subtitle: For small businesses
-        price: $5/m
+        price: Starts AED 2.5/KG
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
