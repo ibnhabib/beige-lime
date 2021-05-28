@@ -49,10 +49,8 @@ sections:
           Yes, we have professionals who can dismantle and pack all kind of
           items.
       - question: How long it take to reach the cargo to Pakistan?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: |
+          We send cargo via sea and it take approximate a month to reach.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
