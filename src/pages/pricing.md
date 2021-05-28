@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: secondary
       - title: Electronics
-        subtitle: For medium-sized businesses
+        subtitle: Electrical appliances
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
