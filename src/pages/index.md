@@ -13,10 +13,10 @@ sections:
         url: 'https://wa.me/971554948975'
         style: primary
         has_icon: true
-        icon: arrow-right   
+        icon: arrow-right
   - content: >
-      #### Pakistan  Cargo Cargo to Pakistan cargo service to Pakistan Pakistan
-      cargo service
+      #### Pakistan Cargo | Cargo to Pakistan | cargo service to Pakistan |
+      Pakistan cargo service
     image_alt: Pakistan cargo service from abu dhabi
     background: white
     actions: []
