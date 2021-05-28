@@ -9,7 +9,7 @@ sections:
     content: |
       **Cargo to Pakistan** door to door service, **Free pick up and Delivery**
     actions:
-      - label: Click to WhatsApp
+      - label: Send WhatsApp
         url: 'https://wa.me/971554948975'
         style: primary
         has_icon: true
