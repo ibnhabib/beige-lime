@@ -24,12 +24,7 @@ sections:
       - title: Electronics
         subtitle: Electrical appliances
         price: Starts AED 6/ KG
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: "*   Electrical Items\r\n\n*   Washing Machines\r\n\n*   Fridge , AC\r\n\n*   TV/LED\n"
         highlight: true
         actions:
           - label: Order Now
