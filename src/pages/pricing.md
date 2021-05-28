@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: You can send all the house holds items
     pricing_plans:
       - title: Normal Items
         subtitle: For personal effects
