@@ -9,9 +9,6 @@ sections:
     content: |+
       **Cargo to Pakistan** door to door service, **Free pick up and Delivery**
       
-      <a href="tel:+971554948975" class="button"> Click to Call </a> 
-<a href="https://wa.me/971554948975" class="button">Click to Whatsapp</a> 
-
     actions:
       - label: Send WhatsApp
         url: 'https://wa.me/971554948975'
