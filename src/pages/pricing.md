@@ -38,11 +38,7 @@ sections:
       - title: Volume Items
         subtitle: Large items
         price: Starts AED 4.5/KG
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: "*   Foam\r\n\n*   Mattress\r\n\n*   Sofa\r\n\n*   Other\n"
         actions:
           - label: Order Now
             url: /signup
