@@ -36,7 +36,7 @@ sections:
             url: /signup
             style: primary
       - title: Volume Items
-        subtitle: For very large businesses
+        subtitle: Large items
         price: Starts AED 4.5/KG
         details: |-
           * Vestibulum non eros quis
