@@ -10,11 +10,13 @@ sections:
       - title: Normal Items
         subtitle: For personal effects
         price: Starts AED 2.5/KG
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |+
+          *   luggage
+
+          *   House holds
+
+              *   Toys etc*   Cloths
+
         actions:
           - label: Order Now
             url: /signup
