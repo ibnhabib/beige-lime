@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Normal Items
-        subtitle: For small businesses
+        subtitle: For personal effects
         price: Starts AED 2.5/KG
         details: |-
           * Lorem ipsum dolor sit amet
