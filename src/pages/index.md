@@ -6,8 +6,7 @@ sections:
     image: 'images/9535 [Converted].png'
     image_alt: App preview
     title: Pakistan Cargo Service
-    content: |
-      **Cargo to Pakistan** door to door service, **Free pick up and Delivery**
+    content: "**Cargo to Pakistan** door to door service, **Free pick up and Delivery**\n\n Click to Call \r\nClick to Whatsapp\n\n\n\n\n\n\n\n\n\n\n\n"
     actions:
       - label: Send WhatsApp
         url: 'https://wa.me/971554948975'
