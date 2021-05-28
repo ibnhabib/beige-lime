@@ -92,6 +92,17 @@
                         "icon_position": "left"
                     },
                     {
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/pakistanicargo",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "instagram",
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false,
+                        "type": "action"
+                    },
+                    {
                         "label": "LinkedIn",
                         "url": "https://www.linkedin.com/company/pakistancargo",
                         "style": "link",
@@ -106,17 +117,6 @@
                         "has_icon": true,
                         "icon": "facebook",
                         "icon_position": "left"
-                    },
-                    {
-                        "label": "Instagram",
-                        "url": "https://www.instagram.com/pakistanicargo",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "instagram",
-                        "icon_position": "left",
-                        "new_window": false,
-                        "no_follow": false,
-                        "type": "action"
                     }
                 ]
             },
