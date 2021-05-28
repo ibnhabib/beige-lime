@@ -35,7 +35,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Volume Items
         subtitle: For very large businesses
         price: Starts AED 4.5/KG
         details: |-
