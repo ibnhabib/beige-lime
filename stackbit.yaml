@@ -787,16 +787,28 @@ models:
         name: icon
         label: Icon
         options:
-          - arrow-left
-          - arrow-right
-          - envelope
-          - facebook
-          - github
-          - instagram
-          - linkedin
-          - twitter
-          - vimeo
-          - youtube
+          - label: arrow-left
+            value: arrow-left
+          - label: arrow-right
+            value: arrow-right
+          - label: envelope
+            value: envelope
+          - label: facebook
+            value: facebook
+          - label: github
+            value: github
+          - label: instagram
+            value: instagram
+          - label: linkedin
+            value: linkedin
+          - label: twitter
+            value: twitter
+          - label: vimeo
+            value: vimeo
+          - label: youtube
+            value: youtube
+          - label: ''
+            value: ''
       - type: enum
         name: icon_position
         label: Icon position
