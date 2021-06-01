@@ -6,12 +6,10 @@ sections:
     image: 'images/9535 [Converted].png'
     image_alt: App preview
     title: Pakistan Cargo Service
-    content: >
+    content: |
       **Cargo to Pakistan** door to door service, **Free pick up and Delivery**
 
-
-      \<div>\<a href="tel:+971554948975" class="button"> Call Us
-      \</a>\</div>\</br>
+      \<a href="tel:+971554948975" class="button"> Call Us \</a>
     actions:
       - label: Send WhatsApp
         url: 'https://wa.me/971554948975'
